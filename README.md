@@ -8,5 +8,9 @@ Game Download Link: https://ataberkadali.itch.io/space-ship-survival
 
 
 
-https://github.com/AtaberkAdali/Uzay-Gemisini-Koru/assets/59842906/0e3d8084-1ab3-4a59-a804-5fc8e51c8b6d
+
+https://github.com/AtaberkAdali/Protect-The-Spaceship/assets/59842906/a527807d-74c1-4cff-bed0-a2d3db97a82d
+
+
+
 
